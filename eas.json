@@ -14,5 +14,10 @@
   },
   "submit": {
     "production": {}
+  },
+  "androidapk":{
+    "android":{
+      "buildtype":"apk"
+    }
   }
 }
